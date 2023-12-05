@@ -44,6 +44,3 @@ O código-fonte está organizado da seguinte forma:
 
 Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, sugerir melhorias ou enviar solicitações de pull.
 
-## Licença 📜
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
